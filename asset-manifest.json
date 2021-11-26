@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chitchat/static/css/main.f754a4a7.chunk.css",
-    "main.js": "/chitchat/static/js/main.3cffe93d.chunk.js",
-    "main.js.map": "/chitchat/static/js/main.3cffe93d.chunk.js.map",
-    "runtime-main.js": "/chitchat/static/js/runtime-main.beb07d92.js",
-    "runtime-main.js.map": "/chitchat/static/js/runtime-main.beb07d92.js.map",
-    "static/js/2.95c8581e.chunk.js": "/chitchat/static/js/2.95c8581e.chunk.js",
-    "static/js/2.95c8581e.chunk.js.map": "/chitchat/static/js/2.95c8581e.chunk.js.map",
-    "index.html": "/chitchat/index.html",
-    "static/css/main.f754a4a7.chunk.css.map": "/chitchat/static/css/main.f754a4a7.chunk.css.map",
-    "static/js/2.95c8581e.chunk.js.LICENSE.txt": "/chitchat/static/js/2.95c8581e.chunk.js.LICENSE.txt"
+    "main.css": "/ChitChat-app/static/css/main.f754a4a7.chunk.css",
+    "main.js": "/ChitChat-app/static/js/main.3cffe93d.chunk.js",
+    "main.js.map": "/ChitChat-app/static/js/main.3cffe93d.chunk.js.map",
+    "runtime-main.js": "/ChitChat-app/static/js/runtime-main.0f2ddc38.js",
+    "runtime-main.js.map": "/ChitChat-app/static/js/runtime-main.0f2ddc38.js.map",
+    "static/js/2.95c8581e.chunk.js": "/ChitChat-app/static/js/2.95c8581e.chunk.js",
+    "static/js/2.95c8581e.chunk.js.map": "/ChitChat-app/static/js/2.95c8581e.chunk.js.map",
+    "index.html": "/ChitChat-app/index.html",
+    "static/css/main.f754a4a7.chunk.css.map": "/ChitChat-app/static/css/main.f754a4a7.chunk.css.map",
+    "static/js/2.95c8581e.chunk.js.LICENSE.txt": "/ChitChat-app/static/js/2.95c8581e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.beb07d92.js",
+    "static/js/runtime-main.0f2ddc38.js",
     "static/js/2.95c8581e.chunk.js",
     "static/css/main.f754a4a7.chunk.css",
     "static/js/main.3cffe93d.chunk.js"
